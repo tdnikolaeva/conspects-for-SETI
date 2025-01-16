@@ -352,3 +352,7 @@ Ethernet — это стандарт для локальных сетей (LAN),
 
 ![](./imgs/ethernet.png)
 
+
+## DoD это tcp/ip я в шоке
+
+![img.png](imgs/img.png)
